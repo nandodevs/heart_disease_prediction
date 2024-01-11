@@ -1,10 +1,10 @@
- **# Heart Disease Prediction using Machine Learning**
+ # Heart Disease Prediction using Machine Learning
 
-**## Overview**
+## Overview
 
 This repository contains the code and resources for a project that aims to predict the presence of heart disease using machine learning techniques. The goal is to develop a model that can accurately predict heart disease based on patient data, potentially aiding in early diagnosis and prevention.
 
-**## Project Structure**
+## Project Structure
 
 ```
 ├── README.md          <-- This file
@@ -23,7 +23,7 @@ This repository contains the code and resources for a project that aims to predi
 └── models             <-- Folder to store trained model files
 ```
 
-**## Dataset**
+## Dataset
 
 The dataset used in this project is the Heart Disease UCI dataset, available from the UCI Machine Learning Repository. It contains 303 records of patients, each with 14 attributes, including:
 
@@ -42,7 +42,7 @@ The dataset used in this project is the Heart Disease UCI dataset, available fro
 * Thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 * Diagnosis of heart disease (angiographic disease status)
 
-**## Getting Started**
+## Getting Started
 
 1. Clone this repository:
 
@@ -60,10 +60,10 @@ The dataset used in this project is the Heart Disease UCI dataset, available fro
 4. Run the notebooks to reproduce the results.
 5. Customize the code for your own experiments and model development.
 
-**## Contributing**
+## Contributing
 
 We welcome contributions to this project! Please feel free to submit pull requests or open issues for any improvements or suggestions.
 
-**## License**
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
