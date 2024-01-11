@@ -47,7 +47,7 @@ The dataset used in this project is the Heart Disease UCI dataset, available fro
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/heart-disease-prediction
+   git clone https://github.com/nandodevs/heart-disease-prediction
    ```
 
 2. Install the required libraries:
