@@ -67,3 +67,5 @@ We welcome contributions to this project! Please feel free to submit pull reques
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+[![](https://github.com/nandodevs/heart_disease_prediction/blob/main/src/imgs/graph.png?raw=true)](https://github.com/nandodevs/heart_disease_prediction/blob/main/src/imgs/graph.png?raw=true)
